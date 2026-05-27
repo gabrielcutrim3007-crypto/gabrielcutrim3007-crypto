@@ -1,59 +1,47 @@
-# Hi 👋, I'm Gabriel Cutrim
+# 👋 Olá, eu sou Gabriel Cutrim
+
+🎓 Estudante de Engenharia de Software na FIAP  
+💻 Apaixonado por tecnologia, programação e desenvolvimento de soluções digitais  
+🚀 Sempre buscando aprender novas ferramentas, linguagens e criar projetos que me desafiem
 
 ---
 
-## 🌐 Where to find me
+## 🚀 Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://github.com/gabrielcutrim3007-crypto">
-    <img src="https://img.shields.io/badge/GitHub-gabrielcutrim-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/gabrielccutrim_">
-    <img src="https://img.shields.io/badge/Instagram-@gabrielccutrim_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="React" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="40" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Sobre mim
 
-### Frontend
+Sou movido pela curiosidade e pela vontade constante de entender como as coisas funcionam.  
+Meu interesse por tecnologia começou explorando ferramentas, códigos e sistemas por conta própria, transformando curiosidade em aprendizado.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### DevOps & Tools
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+Hoje, foco meus estudos em desenvolvimento de software, criação de aplicações web e projetos que me permitam evoluir tanto tecnicamente quanto criativamente.
 
 ---
 
-## 🚀 Philosophy
+## 🌎 Onde me encontrar
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+📧 Email: gabrielcutrim3007@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/gabriel-cutrim  
+🚀 Portfólio:
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Sempre explorando novas ideias e construindo projetos.
