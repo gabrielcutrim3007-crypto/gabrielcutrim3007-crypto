@@ -39,8 +39,7 @@ Hoje, foco meus estudos em desenvolvimento de software, criação de aplicaçõe
 ## 🌎 Onde me encontrar
 
 📧 Email: gabrielcutrim3007@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/gabriel-cutrim  
-🚀 Portfólio:
+💼 LinkedIn: https://linkedin.com/in/gabriel-cutrim 
 
 ---
 
