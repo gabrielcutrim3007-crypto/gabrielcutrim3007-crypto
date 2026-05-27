@@ -48,13 +48,6 @@
 
 ---
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcutrim3007-crypto&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcutrim3007-crypto&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
