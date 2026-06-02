@@ -40,8 +40,11 @@ Hoje, foco meus estudos em desenvolvimento de software, criação de aplicaçõe
 
 📧 Email: gabrielcutrim3007@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/gabriel-cutrim 
-<a href="https://instagram.com/gabrielccutrim_">
+  <a href="https://instagram.com/gabrielccutrim_">
     <img src="https://img.shields.io/badge/Instagram-@gabrielccutrim_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/gabrielcutrim3007-crypto">
+    <img src="https://img.shields.io/badge/GitHub-gabrielcutrim3007-crypto-181717?style=for-the-badge&logo=github" />
   </a>
 
 ---
