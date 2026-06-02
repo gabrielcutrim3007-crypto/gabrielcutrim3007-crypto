@@ -38,17 +38,12 @@ Hoje, foco meus estudos em desenvolvimento de software, criação de aplicaçõe
 
 ## 🌎 Onde me encontrar
 
-<div>
-  <a href="https://instagram.com/gabrielccutrim_" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for- the- badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "gabrielcutrim3007@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-cutrim-45875016a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/94b01880-d966-4b74-90db-7837defe0c1a" />Email: gabrielcutrim3007@gmail.com
+
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e4da33b3-d9a9-491b-8b96-a801bf7ffee0" />Linkedin: https://www.linkedin.com/in/gabriel-cutrim/
+
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3e990d5a-f824-4e73-8395-3c4ea8e9e2b0" />Instagram: @gabrielccutrim_
+
 ---
 
 ⭐ Sempre explorando novas ideias e construindo projetos.
