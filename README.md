@@ -31,8 +31,8 @@ Oi, eu sou o Gabriel.
 ## `03` no github
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielcutrim3007-crypto&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=1f3d2b&border_radius=8" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcutrim3007-crypto&layout=compact&langs_count=6&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=1f3d2b&border_radius=8" alt="Top Languages"/>
+  <img height="170" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
