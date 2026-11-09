@@ -40,26 +40,12 @@ Oi, eu sou o Gabriel.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcutrim3007-crypto&bg_color=0d1117&color=c9d1d9&title_color=39d353&line=39d353&point=f0f6fc&area=true&area_color=39d353&hide_border=true&radius=8&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-## `04` troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielcutrim3007-crypto&theme=matrix&no-frame=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/gabrielcutrim3007-crypto/gabrielcutrim3007-crypto/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 <br/>
 
-## `05` contato
+## `04` contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-cutrim"><img src="https://img.shields.io/badge/linkedin-gabriel--cutrim-39d353?style=flat-square&labelColor=0d1117" alt="LinkedIn"/></a>
