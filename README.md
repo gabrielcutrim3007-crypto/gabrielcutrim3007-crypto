@@ -15,7 +15,7 @@ Oi, eu sou o Gabriel.
 - **agora** — 3º semestre de Engenharia de Software na FIAP
 - **interesses** — programação, dados e inteligência artificial
 - **procurando** — estágio em tecnologia
-- **idiomas** — inglês avançado, com 5 meses de intercâmbio em Dallas (EUA)
+- **idiomas** — inglês avançado, com 5 meses de intercâmbio em Dallas (EUA), espanhol intermediário e português nativo
 - **fora do código** — leitura, corrida, academia e esportes em geral
 
 <br/>
